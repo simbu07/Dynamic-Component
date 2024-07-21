@@ -1,0 +1,68 @@
+
+#root {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 5rem;
+    text-align: center;
+    position: relative;
+    
+  }
+  img{
+    padding-top:15px ;
+  }
+  .logo {
+    height: 6em;
+    padding: 1.5em;
+    will-change: filter;
+    transition: filter 300ms;
+  }
+  
+  body{
+    background-color: blue;
+    margin: 0px;
+    padding: 0px;
+
+  }
+ 
+  .card {
+    padding: 2em;
+  }
+  
+  .read-the-docs {
+    color: #888;
+  }
+  .main-div
+  {
+    
+    position: relative;
+    top: 100px;
+    left: 500px;
+    bottom: 100px;
+    right: 100px;
+    background-color: rgba(236, 240, 23, 0.628);
+    width: 500px;
+    height: 350px;
+    border-radius: 25PX;
+    box-shadow: 10PX 10PX 10PX 10PX;
+    padding: 30px;
+    
+  }
+  div p {
+    font-family: sans-serif;
+    color: aliceblue;
+    font-style: italic;
+    font-size: 1.7rem;
+  }
+  div button{
+    border-radius: 20px;
+    padding: 8PX;
+    box-shadow: 6PX 6PX black;
+    font-size: large;
+    background-color: gray;
+    color: aliceblue;
+    font-size: 1rem;
+    
+  }
+  h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
